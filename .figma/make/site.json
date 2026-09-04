@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a university student's skills, projects, and academic achievements in a clean, responsive portfolio to enhance professional visibility.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
